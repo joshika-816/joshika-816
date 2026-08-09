@@ -15,7 +15,7 @@ Hello! I'm a final-year B.Tech student specializing in Artificial Intelligence a
 - 🚀 **Currently working on:** CareerPilot AI — a full-stack resume analyzer with a custom ATS scoring engine
 - 📚 **Currently learning:** Advanced ML/NLP techniques and full-stack deployment
 - 💬 **Ask me about:** Machine Learning, NLP, Flask/React, Data Analytics
-
+- 📖 **Fun fact:** I'm into the epics of Indian history
 
 ---
 
@@ -58,18 +58,6 @@ ML system recommending top 3 crops from soil/climate data using EDA-driven featu
 
 **[CareerPilot AI](#)**
 Resume analyzer with weighted ATS scoring (Skills 40%, Projects 20%, Experience 20%, Education 10%, Certifications 10%), dynamic re-scoring by job role, and AI-generated improvement suggestions.
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Domains:** Machine Learning · Deep Learning · Natural Language Processing
 
