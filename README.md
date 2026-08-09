@@ -65,4 +65,5 @@ Hello! I'm a final-year B.Tech student specializing in Artificial Intelligence a
 
 ---
 
-### ✨ Motto > **"Learning continuously. Building intelligently. Growing every day."**
+### ✨ Motto >
+**"Learning continuously. Building intelligently. Growing every day."**
