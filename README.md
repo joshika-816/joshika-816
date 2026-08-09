@@ -26,7 +26,7 @@ Hello! I'm a final-year B.Tech student specializing in Artificial Intelligence a
 - 🚀 **Currently working on:** CareerPilot AI — a full-stack resume analyzer with a custom ATS scoring engine
 - 📚 **Currently learning:** Advanced ML/NLP techniques and full-stack deployment
 - 💬 **Ask me about:** Machine Learning, NLP, Flask/React, Data Analytics
-
+- 📖 **Fun fact:** I'm into the epics of Indian history
 
 ---
 
