@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joshika 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=ML+Engineer;Artificial+Intelligence+%26+Data+Science+Student;Building+AI-Powered+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=ML+Engineer;Artificial+Intelligence+%26+Data+Science+Student;Building+AI-Powered+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
