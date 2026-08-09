@@ -30,36 +30,28 @@ Hello! I'm a final-year B.Tech student specializing in Artificial Intelligence a
 
 **Data Science & Machine Learning**
 
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-000000?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge) 
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 
-**Web & Cloud**
+### Web Development 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Azure](https://img.shields.io/badge/-Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 Currently Building
-**CareerPilot AI** — a full-stack AI resume analyzer with a custom ATS scoring engine (React + Flask + Gemini API + spaCy/Sentence Transformers). Parses resumes, matches them against role-specific skill requirements, and scores across Skills, Projects, Experience, Education, and Certifications.
 
-### 🧠 Featured Projects
-
-**[Fake News Detection System](https://github.com/joshika-816/fake_news_detection_ml_project)**
-NLP classifier using TF-IDF + Logistic Regression, 96% accuracy on 40k+ news articles. Built with Python, Flask, Scikit-learn, NLTK.
-
-**[AI-Powered Crop Recommendation System](https://github.com/joshika-816/Agrihackathon)**
-ML system recommending top 3 crops from soil/climate data using EDA-driven feature selection. 90%+ accuracy. Python, Flask, Scikit-learn.
-
-**[CareerPilot AI](#)**
-Resume analyzer with weighted ATS scoring (Skills 40%, Projects 20%, Experience 20%, Education 10%, Certifications 10%), dynamic re-scoring by job role, and AI-generated improvement suggestions.
-
-**Domains:** Machine Learning · Deep Learning · Natural Language Processing
 
 ### 📊 GitHub Stats
 
@@ -70,4 +62,4 @@ Resume analyzer with weighted ATS scoring (Skills 40%, Projects 20%, Experience 
 
 ---
 
-<p align="center"><i>Open to ML and full-stack internship opportunities 🚀</i></p>
+### ✨ Motto > **"Learning continuously. Building intelligently. Growing every day."**
