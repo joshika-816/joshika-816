@@ -59,7 +59,7 @@ Hello! I'm a final-year B.Tech student specializing in Artificial Intelligence a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshika-816&show_icons=true&theme=default" height="165"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshika-816" height="165"/>
 </p>
 
