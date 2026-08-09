@@ -2,8 +2,8 @@
 <h3 align="center">Final-year B.Tech AI & Data Science student | Building ML/NLP + full-stack systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/joshika-s-a56b28a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joshikasuresh79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/joshika-s-a56b282a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:joshikasuresh79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </p>
 
 ---
