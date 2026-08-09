@@ -1,16 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A6B,100:1D9E75&height=180&section=header&text=Joshika%20S&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20%26%20Data%20Science%20Student%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=62&descSize=18"/>
-</p>
-
-<p align="center">
-Building intelligent systems that solve real-world problems using <b>Machine Learning</b>, <b>NLP</b> and <b>Full-Stack Development</b>.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_Machine_Learning-1a1a2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/</>_NLP-1a1a2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🗄️_Full_Stack-1a1a2e?style=for-the-badge"/>
-</p>
+<h1 align="center">Hi, I'm Joshika 👋</h1>
+<h3 align="center">Final-year B.Tech AI & Data Science student | Building ML/NLP + full-stack systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshika-s-a56b282a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -75,12 +64,8 @@ Resume analyzer with weighted ATS scoring (Skills 40%, Projects 20%, Experience 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshika-816&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshika-816&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,flask,mysql,azure,git,github&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joshika-816&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshika-816" height="165"/>
 </p>
 
 ---
