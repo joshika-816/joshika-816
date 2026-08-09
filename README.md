@@ -7,6 +7,27 @@
 </p>
 
 ---
+📌 About Me
+
+Hello! I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science. I like turning ML models into things people can actually use — web apps, not just notebooks.
+
+🚀 Currently working on: CareerPilot AI — a full-stack resume analyzer with a custom ATS scoring engine
+📚 Currently learning: Advanced ML/NLP techniques and full-stack deployment
+💬 Ask me about: Machine Learning, NLP, Flask/React, Data Analytics
+📖 Fun fact: I'm into the epics of Indian history
+🧰 Skills & Tools
+
+Languages & Core
+
+Show Image Show Image Show Image Show Image
+
+Data Science & Machine Learning
+
+Show Image Show Image Show Image Show Image
+
+Web & Cloud
+
+Show Image Show Image Show Image Show Image Show Image
 
 ### 🚀 Currently Building
 **CareerPilot AI** — a full-stack AI resume analyzer with a custom ATS scoring engine (React + Flask + Gemini API + spaCy/Sentence Transformers). Parses resumes, matches them against role-specific skill requirements, and scores across Skills, Projects, Experience, Education, and Certifications.
